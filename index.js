@@ -10,7 +10,7 @@ let userID = 'uuid';
 let proxyIP = 'newproxy';
 
 //let sub = '';// 留空则显示原版内容
-let sub = 'subworkerhost';// 内置优选订阅生成器，可自行搭建 https://github.com/cmliu/WorkerVless2sub
+let sub = 'dy.ukuk358.xyz';// 内置优选订阅生成器，可自行搭建 https://github.com/cmliu/WorkerVless2sub
 let subconverter = 'api.v1.mk';// clash订阅转换后端，目前使用肥羊的订阅转换功能。支持自建psub 可自行搭建https://github.com/bulianglin/psub
 let subconfig = "https://raw.githubusercontent.com/cmliu/ACL4SSR/main/Clash/config/ACL4SSR_Online_Full_MultiMode.ini"; //订阅配置文件
 // The user name and password do not contain special characters
