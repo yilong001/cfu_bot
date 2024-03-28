@@ -14,7 +14,7 @@ let addresses = [
 
 // 设置优选地址api接口
 // let addressesapi = ['https://raw.githubusercontent.com/cmliu/WorkerVless2sub/main/addressesapi.txt'];
-let addressesapi = ['addressapi'];
+let addressesapi = ['https://raw.githubusercontent.com/yilong001/yxip/main/yxip.txt'];
 
 let DLS = 4;//速度下限
 let addressescsv = [
